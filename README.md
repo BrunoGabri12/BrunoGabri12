@@ -6,7 +6,7 @@
 
 -🌱 I’m currently learning JavaScript.
 
--⚡ Fun fact: ✒ I love drawing (despite being terrible at it) and i have a [instagram](https://www.instagram.com/vida_e_tedio/?hl=pt-br) for my cartoons.
+-⚡ Fun fact: ✒ I love drawing and i have a [instagram](https://www.instagram.com/vida_e_tedio/?hl=pt-br) for my cartoons.
 
 ### Languages and Tools 💻
 <a href="">
