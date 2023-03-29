@@ -28,11 +28,6 @@
 </a>
 
 
-<a href="">
- <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" style="max-width=100%;"> 
-</a>
-
-
 ### Conect whith me
 
 <a href="https://www.linkedin.com/in/bruno-gabriel-a71b0614b/">
