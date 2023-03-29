@@ -24,7 +24,7 @@
 </a>
 
 <a href="">
-<img  alt="icon-Java"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width=100%;">
+<img  alt="icon-Java"  height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" style="max-width=100%;">
 </a>
 
 
