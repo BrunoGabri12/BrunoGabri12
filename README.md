@@ -1,10 +1,8 @@
-### Hi there! 👋🏻
+### Hi Folks! 👋🏻
 
 -I'm Bruno. I'm from 🇧🇷 !
 
 -👨🏻‍🎓I'm currently studying Computer Science at University of São Paulo.
-
--🌱 I’m currently learning Java.
 
 ### Languages and Tools 💻
 <a href="">
@@ -18,15 +16,6 @@
 <a href="">
 <img  alt="icon-JavaScript"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width=100%;">
 </a>
-
-<a href="">
-<img  alt="icon-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="max-width=100%;">
-</a>
-
-<a href="">
- <img alt="icon-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="max-width=100%;">
-</a>
-
 
 ### Conect whith me
 
