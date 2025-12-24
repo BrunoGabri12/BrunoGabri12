@@ -1,14 +1,44 @@
-### Hi Folks! 👋🏻
+## Hi there! 👋🏻
 
--I'm Bruno. I'm from 🇧🇷 !
+I'm **Bruno**, a **Junior Software Engineer** passionate about building web applications and learning new technologies.
 
--👨🏻‍🎓I'm Software Engineer jr. Now, I'm working with Angular and Learning NestJs
+- 💻 Currently working with **Angular**
+- 📚 Learning **NestJS** and improving my backend skills
+- 🚀 Always looking to grow as a developer
 
-### Conect whith me
+---
 
-<a href="https://www.linkedin.com/in/bruno-gabriel-a71b0614b/">
-  <img alt="icon-LinkedIn"  height="40" width="50" src="https://camo.githubusercontent.com/28bbd2596707954793abeff9eb24d343c1c78b7bf184b90294b4b190c6097a65/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6c696e6b6564696e2e737667" style="max-width=100%;">  
+## 🛠️ Tech Stack
+
+**Frontend**
+- Angular
+- React / Next.js
+- Tailwind 
+- SCSS, HTML, CSS
+- UX/UI (Figma)
+
+**Backend**
+- NestJS
+- Node.js
+- TypeScript
+
+**Tools**
+- Git & GitHub
+- Docker
+- REST APIs
+
+---
+
+## 📫 Connect with me
+
+<a href="https://www.linkedin.com/in/bruno-gabriel-a71b0614b/" target="_blank">
+  <img 
+    alt="LinkedIn" 
+    height="40" 
+    src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg"
+  />
 </a>
 
+---
 
-
+Feel free to check out my repositories and follow my journey!
