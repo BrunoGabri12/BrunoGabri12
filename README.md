@@ -9,9 +9,6 @@
   <a href="https://www.linkedin.com/in/bruno-gabriel-a71b0614b/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Bruno%20Gabriel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:bruno.justino1810@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </p>
 
 ---
@@ -71,7 +68,7 @@
 ## 📫 Let's connect
 
 I'm always open to talking about full-stack development, architecture and new opportunities.
-Reach me on [LinkedIn](https://www.linkedin.com/in/bruno-gabriel-a71b0614b/) or by [email](mailto:bruno.justino1810@gmail.com).
+Reach me on [LinkedIn](https://www.linkedin.com/in/bruno-gabriel-a71b0614b/) .
 
 <p align="center">
   <i>Feel free to explore my repositories and follow my journey! ⭐</i>
