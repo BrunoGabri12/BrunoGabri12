@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Full-Stack Software Engineer</b><br/>
-  Angular & React on the frontend · Java, Spring Boot & NestJS on the backend
+  Angular & React on the frontend · Java, Spring Boot 
 </p>
 
 <p align="center">
